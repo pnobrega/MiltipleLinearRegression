@@ -58,8 +58,6 @@ plt.plot(y_pred)
 plt.ylabel("Predict")
 plt.show()
 
-import matplotlib.pyplot as plt
-# Data for plotting
 plt.plot(y_test)
 plt.ylabel("Test")
 plt.show()
